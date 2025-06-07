@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\hasn5\source\repos\flappy bird\scane.h(31,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hasn5\source\repos\flappy bird\scane.h(48,21): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hasn5\source\repos\flappy bird\bird.h(27,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hasn5\source\repos\flappy bird\bird.h(29,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hasn5\source\repos\flappy bird\bird.h(46,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hasn5\source\repos\flappy bird\main.cpp(27,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hasn5\source\repos\flappy bird\main.cpp(29,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hasn5\Desktop\source files\button && menu\button menu.h(36,1): warning C4715: 'button::isPressed': not all control paths return a value
+  flappy bird.vcxproj -> C:\Users\hasn5\source\repos\flappy bird\x64\Debug\flappy bird.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
